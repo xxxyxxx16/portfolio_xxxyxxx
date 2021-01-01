@@ -1,0 +1,2 @@
+Скачать данные с Kaggle.
+New York Stock Prices Data set
